@@ -30,7 +30,7 @@
 
 ### Stack I reach for
 
-[![Stack](https://skillicons.dev/icons?i=py,java,cpp,ts,fastapi,spring,react,dotnet,docker,kubernetes,githubactions,postgres,mysql,redis,gcp,linux&theme=dark)](https://skillicons.dev)
+[![Stack](https://skillicons.dev/icons?i=py,java,cpp,ts,fastapi,spring,react,dotnet,docker,kubernetes,githubactions,postgres,mysql,redis,gcp,linux&theme=dark&perline=8)](https://skillicons.dev)
 
 ### Connect
 
