@@ -14,16 +14,14 @@ What ties it together is that I like building backend systems that keep working 
 
 **The stack I use**
 
-<table>
-  <tr>
-    <td valign="middle">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpk-11&layout=compact&langs_count=6&hide=jupyter%20notebook,yacc,html,css,scss&bg_color=0a0a0a&title_color=A8823A&text_color=e8eaed&border_color=235735" alt="Most used languages"/>
-    </td>
-    <td valign="middle">
-      <img src="https://skillicons.dev/icons?i=py,java,cpp,cs,c,ts,js,pytorch,tensorflow,react,nodejs,express,fastapi,flask,spring,dotnet,tailwind,docker,kubernetes,nginx,githubactions,jenkins,gcp,linux,git,postgres,mysql,mongodb,redis,prometheus,grafana,jest&theme=dark&perline=8" width="400" alt="Stack"/>
-    </td>
-  </tr>
-</table>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vpk-11&layout=compact&langs_count=6&hide=jupyter%20notebook,yacc,html,css,scss&bg_color=00000000&hide_border=true&title_color=A8823A&text_color=e6edf3"/>
+  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpk-11&layout=compact&langs_count=6&hide=jupyter%20notebook,yacc,html,css,scss&bg_color=00000000&hide_border=true&title_color=A8823A&text_color=1f2328" alt="Most used languages"/>
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py,java,cpp,cs,c,ts,js,pytorch,tensorflow,react,nodejs,express,fastapi,flask,spring,dotnet,tailwind,docker,kubernetes,nginx,githubactions,jenkins,gcp,linux,git,postgres,mysql,mongodb,redis,prometheus,grafana,jest&theme=dark&perline=8"/>
+  <img width="61%" src="https://skillicons.dev/icons?i=py,java,cpp,cs,c,ts,js,pytorch,tensorflow,react,nodejs,express,fastapi,flask,spring,dotnet,tailwind,docker,kubernetes,nginx,githubactions,jenkins,gcp,linux,git,postgres,mysql,mongodb,redis,prometheus,grafana,jest&theme=light&perline=8" alt="Stack"/>
+</picture>
 
 <br>
 
