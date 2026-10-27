@@ -16,14 +16,15 @@ What ties it together is that I like building backend systems that keep working 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=vpk-11&layout=compact&langs_count=6&hide=jupyter%20notebook%2Cyacc%2Chtml%2Ccss%2Cscss&bg_color=00000000&hide_border=true&title_color=A8823A&text_color=e6edf3"/>
-  <img width="37%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpk-11&layout=compact&langs_count=6&hide=jupyter%20notebook%2Cyacc%2Chtml%2Ccss%2Cscss&bg_color=00000000&hide_border=true&title_color=A8823A&text_color=1f2328" alt="Most used languages"/>
+  <img align="top" width="36%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vpk-11&layout=compact&langs_count=6&hide=jupyter%20notebook%2Cyacc%2Chtml%2Ccss%2Cscss&bg_color=00000000&hide_border=true&title_color=A8823A&text_color=1f2328" alt="Most used languages"/>
 </picture>
+&emsp;&emsp;
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://skillicons.dev/icons?i=py%2Cjava%2Ccpp%2Ccs%2Cc%2Cts%2Cjs%2Cpytorch%2Ctensorflow%2Creact%2Cnodejs%2Cexpress%2Cfastapi%2Cflask%2Cspring%2Cdotnet%2Ctailwind%2Cdocker%2Ckubernetes%2Cnginx%2Cgithubactions%2Cjenkins%2Cgcp%2Clinux%2Cgit%2Cpostgres%2Cmysql%2Cmongodb%2Credis%2Cprometheus%2Cgrafana%2Cjest&theme=dark&perline=8"/>
-  <img width="61%" src="https://skillicons.dev/icons?i=py%2Cjava%2Ccpp%2Ccs%2Cc%2Cts%2Cjs%2Cpytorch%2Ctensorflow%2Creact%2Cnodejs%2Cexpress%2Cfastapi%2Cflask%2Cspring%2Cdotnet%2Ctailwind%2Cdocker%2Ckubernetes%2Cnginx%2Cgithubactions%2Cjenkins%2Cgcp%2Clinux%2Cgit%2Cpostgres%2Cmysql%2Cmongodb%2Credis%2Cprometheus%2Cgrafana%2Cjest&theme=light&perline=8" alt="Stack"/>
+  <img align="top" width="58%" src="https://skillicons.dev/icons?i=py%2Cjava%2Ccpp%2Ccs%2Cc%2Cts%2Cjs%2Cpytorch%2Ctensorflow%2Creact%2Cnodejs%2Cexpress%2Cfastapi%2Cflask%2Cspring%2Cdotnet%2Ctailwind%2Cdocker%2Ckubernetes%2Cnginx%2Cgithubactions%2Cjenkins%2Cgcp%2Clinux%2Cgit%2Cpostgres%2Cmysql%2Cmongodb%2Credis%2Cprometheus%2Cgrafana%2Cjest&theme=light&perline=8" alt="Stack"/>
 </picture>
 
-<br>
+<br/><br/>
 
 <a href="https://drive.google.com/file/d/1dGTLIkyNHbv8OMUUEAz_KWescgxd_f3J/view?usp=drive_link"><img src="https://img.shields.io/badge/Resume-0a0a0a?style=for-the-badge&logo=googledrive&logoColor=A8823A" alt="Resume"/></a>
 <a href="https://vpk-11.github.io"><img src="https://img.shields.io/badge/Portfolio-235735?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"/></a>
