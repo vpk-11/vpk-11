@@ -4,12 +4,14 @@
 
 I'm an MS Computer Science student at UMass Amherst, graduating in May 2027. Before that I was a Software Engineer at Wells Fargo, where I shipped features end to end for portfolio management applications handling $400B+ in assets and carried production on-call for them. Before that, as a research intern at ISRO, I cut per-frame latency in a computer vision pipeline from 20s to 2s by running five models as concurrent services.
 
-What ties it together is that I like building backend systems that keep working when something underneath them breaks.
+Across all of it, I build backend systems that keep working when something underneath them breaks.
+
+Looking for full-time software engineering roles starting 2027, backend and distributed systems.
 
 **Some things I've built**
 
 - [**Atlas**](https://github.com/vpk-11/atlas): ride-dispatch backend as three gRPC microservices on Kubernetes. A live pod killed mid-ramp to 500 req/s (routing stub) left 0.00% of 101,249 requests failing, with no duplicate trips.
-- [**Quantico**](https://github.com/vpk-11/quantico): walk-forward equity research pipeline in Python with a C++ execution simulator, bit-exact with its Python reference on 3,600 orders.
+- [**Quantico**](https://github.com/vpk-11/quantico): walk-forward equity research pipeline in Python with a C++ execution simulator, bit-exact with its Python reference on 3,600 orders and about 2x faster at 200k.
 - [**Narada**](https://github.com/vpk-11/narada): agentic web research pipeline where every table cell carries its source URL and a quote checked against that page.
 
 **The stack I use**
